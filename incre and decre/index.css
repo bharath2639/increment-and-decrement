@@ -1,0 +1,38 @@
+*{
+    background-image: linear-gradient(to left, rgb(238, 195, 238) ,rgb(219, 219, 228));
+}
+
+
+
+.input1{
+    text-align: center;
+    margin-top: 20%;
+    border: none;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#button1,#button2,#button3,#button4,#button5{
+    margin: 20px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(251, 58, 58);
+    cursor: pointer;
+    padding: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
+.header{
+    margin-left: 700px;
+    /* padding: 10px; */
+}
+#output{
+ width: 130px;
+ border: 1px solid black;
+ height: 20px;
+ font-size: larger;
+}
